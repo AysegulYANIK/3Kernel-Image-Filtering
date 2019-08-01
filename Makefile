@@ -6,6 +6,6 @@ output: 3Dkernel_image_filtering.o
 	g++ -c 3Dkernel_image_filtering.cc 
 
 clean: 
-	rm *.o output
+	rm *.o 
 
 
